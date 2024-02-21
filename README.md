@@ -1,4 +1,6 @@
+<h1 align="center">
 
+</h1>
  
 <h1 align="center">Hi 👋, I'm Halley Chikari</h1>
 <h3 align="center">A passionate Full Stack Developer from SA 🇿🇦</h3>

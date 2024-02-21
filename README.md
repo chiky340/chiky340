@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...​)](https://rishavchanda.io​)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMx/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbIIhSu2SDj_Mig8SXJQCLcBGAYHQ/s1600/2000_600px.gif)](https://rishavchanda.io​)
  
 <h1 align="center">Hi 👋, I'm Halley Chikari</h1>
 <h3 align="center">A passionate Full Stack Developer from SA 🇿🇦</h3>

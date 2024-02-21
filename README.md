@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @chiky340
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi My name is Halley Chikari
+Learning full stack developer
+I am a passionate developer. With a passion that began when I was 14. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
 
-<!---
-chiky340/chiky340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍  I'm based in South Africa
+🖥️  See my portfolio at this website
+✉️  You can contact me at 
+Halleychiky@gmail.com 
+🧠  I'm learning how to reverse engineer ChatGPT 🤫
+🤝  I'm open to collaborating on interesting projects
+⚡  I'm actually an alien because humans can't understand my code 🤫 (except ChatGPT 🙄)

@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
 🔥He who writes Godly code🔥
-</h1>
+</p>
  
 <h1 align="center">Hi 👋, I'm Halley Chikari</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>

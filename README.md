@@ -9,7 +9,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--🔥 About me
+<br>
+
+- 🔥 About me
+
 **I am a passionate software dev. With a passion that began when I was 14. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!**
 
 - 🔭 I’m currently working on reverse engineering ChatGPT **Glitch**

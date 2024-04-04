@@ -15,13 +15,13 @@
 - 🔥 About me
 **I am a passionate software dev. With a passion that began when I was 14. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!**
 
-- 🔭 I’m currently working on reverse engineering ChatGPT **Glitch**
+- 🔭 I’m currently working on reverse engineering ChatGPT
 
 - 👯 I’m looking to collaborate on **Interesting projects**
 
 - 📫 How to reach me **Halleychiky@gmail.com**
 
-- ⚡ Fun fact **I'm 14**
+- ⚡ Fun fact **I think in binary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

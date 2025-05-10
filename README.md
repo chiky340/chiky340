@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 About me I am a passionate software dev. With a passion that began when I was 14. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
+🔥 About me I am a passionate software dev. With a passion that began when I was young. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
 
 
 # 💻 Tech Stack:

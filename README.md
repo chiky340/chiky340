@@ -20,7 +20,5 @@ I am a passionate software engineer with a lot of experience in e-commerce and b
 ![](https://nirzak-streak-stats.vercel.app/?user=chiky340&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiky340&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

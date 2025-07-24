@@ -1,6 +1,11 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Halley Chikari
+=======================================================================================================================================
+
+Full stack developer & Entrepreneur
+-----------------------------------
+
 # 💫 About Me:
-I am a passionate software engineer with experience in eCommerce, finance, and social media systems. With a passion that began when I was 14, I've been writing code since and have been professionally developing since 2019. I specialize in building complex systems and enjoy collaborating with teams to exceed client expectations. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
-I am a passionate software engineer with experience in eCommerce, finance, and social media systems. With a passion that began at a very young age, I've been writing code and have been professionally for 5+ years, and been writing code for 9 years. I specialize in building complex systems and enjoy collaborating with teams to exceed client expectations. My focus is on continuous learning to stay up-to-date with the latest trends and technologies in the industry. Let's connect and work together on exciting projects!
+I am a passionate software engineer with a lot of experience in e-commerce and banking, started programming eversince i was a child. I specialize in Projects that include Java and are complex. I like learning new things, solving problems and challenges. Always tryna be up to date. Let's connect and work together on exciting projects!   
 
 * 🌍  I'm based in South Africa
 * 🧠  I'm learning how to reverse engineer ChatGPT 🤫

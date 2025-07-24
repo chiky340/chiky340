@@ -8,7 +8,7 @@ Full stack developer & Entrepreneur
 I am a passionate software engineer with a lot of experience in e-commerce and banking, started programming eversince i was a child. I specialize in Projects that include Java and are complex. I like learning new things, solving problems and challenges. Always tryna be up to date. Let's connect and work together on exciting projects!   
 
 * 🌍  I'm based in South Africa
-* 🧠  I'm learning how to reverse engineer ChatGPT 🤫
+* 🧠  I'm learning how to reverse engineer Time 🤫
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm an ancient god sent to create the next big thing 
 
